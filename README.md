@@ -1,5 +1,6 @@
-# knifSkin_v1
+# knifSkin v1
 knifSkin v1 - first version of knifSnip's osu! skin
+Made by knifSnip
 
 # How to install
 1. Unzip file
